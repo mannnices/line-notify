@@ -2,6 +2,6 @@
 
 return [
 
-    'access_token' => env('LINE_ACCESS_TOKEN', null),
+    'access_token' => env('uMuKiHPDUGy1z92KrGRKOH4wwUSHJbRYVMSxqJgVfuL', null),
 
 ];
